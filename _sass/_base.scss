@@ -1034,3 +1034,24 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+/* Hide 'blog' menu */
+li.nav-item > a.nav-link[href='/blog/'] {
+  display: none;
+}
+
+/* Hide 'repositories' menu */
+li.nav-item > a.nav-link[href='/repositories/'] {
+  display: none;
+}
+
+/* Hide 'teaching' menu */
+li.nav-item > a.nav-link[href='/teaching/'] {
+  display: none;
+}
+
+/* Hide 'submenus changed' dropdown menu */
+li.nav-item.dropdown > a.nav-link.dropdown-toggle[href='#'] {
+  display: none;
+}
+
