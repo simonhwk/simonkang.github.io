@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Robot Metabolism
-description: another without an image
-img:
-importance: 1
-category: research
+title: topology optimization
+description: drone wing structural analysis
+img: assets/img/1.jpg
+importance: 4
+category: projects
+
 ---
 
 Every project has a beautiful feature showcase page.

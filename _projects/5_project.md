@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: drone wing structural analysis
+description: drone wing structural analysis
 img: assets/img/1.jpg
-importance: 3
-category: fun
+importance: 6
+category: projects
 ---
 
 Every project has a beautiful feature showcase page.
