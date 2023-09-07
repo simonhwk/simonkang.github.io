@@ -2,7 +2,7 @@
 layout: page
 title: Robot Metabolism
 description: another without an image
-img:
+img: assets/img/4Tet_NB.png
 importance: 1
 category: research
 ---
