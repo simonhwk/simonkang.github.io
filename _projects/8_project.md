@@ -1,11 +1,10 @@
 ---
 layout: page
-title: posture optimization
-description: posture optimization of 3-DOF robot with genetic algorithms
-img: assets/img/humanoid_leg.gif
-importance: 1
+title: Symbolic Regression
+description: a project with a background image and giscus comments
+img: assets/img/3.jpg
+importance: 8
 category: projects
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
