@@ -28,9 +28,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a second-year MS student in Mechanical Engineering with a specialization in Robotics at [Columbia University](https://www.columbia.edu/). As a member of the [Creative Machines Lab](https://www.creativemachineslab.com/), I work under the guidance of Professor Hod Lipson and Dr. Philippe Wyder in the Robot Metabolism Group. Before joining Columbia, I received a Bachelor's degree from [CAU](https://www.cau.ac.kr/) and gained valuable industry experience at [Hyundai Motor Group](https://www.hyundaimotorgroup.com/main/mainRecommend), contributing to automotive projects for brands: Hyundai and Kia. **My work is dedicated to study how robots learn and to design robotic solutions that serve society.**
+I am a second-year MS student in Mechanical Engineering with a specialization in Robotics at [Columbia University](https://www.columbia.edu/). As a member of the [Creative Machines Lab](https://www.creativemachineslab.com/), I work under the guidance of Professor Hod Lipson and Dr. Philippe Wyder in the Robot Metabolism Group. Before joining Columbia, I received a Bachelor's degree from [CAU](https://www.cau.ac.kr/) and gained valuable industry experience at [Hyundai Motor Group](https://www.hyundaimotorgroup.com/main/mainRecommend), where I contributed to automotive projects for the brands Hyundai and Kia. **My work is dedicated to study how robots learn and to design novel robotic solutions that serve society and assist people.**
 
-**Research Interests: Modular Robotics \| Robotic Manipulation \| Motion Control \| Exo-Skeleton**
+**Research Interests: Modular Robotics \| AI \| Robotic Manipulation and Control \| Exo-Skeleton**
 
 
 <!-- This is some random text -- this should change frontend.
