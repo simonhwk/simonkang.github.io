@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Simon (Hwanwoong)
 middle_name:
 last_name: Kang
-email: hk3234@columbia.edu
+email: simon.kang@columbia.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -74,7 +74,7 @@ github_username: simonhwk # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: simon-hw-kang # your LinkedIn user name
+linkedin_username: simonhwk # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -106,7 +106,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
 contact_note: >
-  hk3234@columbia.edu
+  simon.kang@columbia.edu
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

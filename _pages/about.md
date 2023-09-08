@@ -12,7 +12,7 @@ subtitle: |
     <strong>MS Student</strong>, <a href='https://www.me.columbia.edu/'>Department of Mechanical Engineering</a><br>
     <strong>Member</strong>, <a href='https://www.creativemachineslab.com/'>Creative Machines Lab</a><br>
     Columbia University<br><br>
-    <a href='https://github.com/simonhwk'>GitHub</a> / <a href='https://www.linkedin.com/in/simon-hw-kang/'>Linkedin</a><br><br><br>
+    <a href='https://github.com/simonhwk'>GitHub</a> / <a href='https://www.linkedin.com/in/simonhwk/'>Linkedin</a><br><br><br>
   </div>
 
 profile:
