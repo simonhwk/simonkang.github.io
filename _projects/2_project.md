@@ -2,7 +2,10 @@
 layout: page
 title: posture optimization
 description: posture optimization of 3-DOF robot with genetic algorithms
-img: assets/img/humanoid_leg.gif
+img: <a href="https://github.com/simonhwk/humanoid-robot-leg/blob/main/Posture%20Optimization%203-DOF%20Robot%20Leg.pdf">
+    ![Posture Optimization](assets/img/humanoid_leg.gif)
+</a>
+
 importance: 1
 category: projects
 giscus_comments: true
