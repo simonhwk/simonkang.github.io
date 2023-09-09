@@ -1,8 +1,9 @@
 ---
 layout: page
 title: TSP Problem
-description: a project with a background image
-img: assets/img/12.jpg
+description: 
+img: assets/img/ga_2.png
+redirect: https://github.com/simonhwk/ga-tsp
 importance: 3
 category: projects
 ---

@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Robot Metabolism
-description: another without an image
+description: 
 img: assets/img/4Tet_NB.png
+redirect: https://github.com/simonhwk/robot-metabolism-retina
 importance: 1
 category: research
 ---

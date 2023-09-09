@@ -2,7 +2,7 @@
 layout: page
 title: research & projects
 permalink: /research/
-description: Active Research and Academic Projects
+description:
 nav: true
 nav_order: 2
 display_categories: [research, projects]

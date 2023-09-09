@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Posture Optimization of 3-DOF HUMANOID ROBOT LEG
+title: Posture Optimization
 # description:
 img: assets/img/humanoid_leg.gif
 redirect: https://github.com/simonhwk/humanoid-robot-leg/blob/main/Posture%20Optimization%203-DOF%20Robot%20Leg.pdf

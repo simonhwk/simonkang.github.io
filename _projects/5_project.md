@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: drone wing structural analysis
 description: drone wing structural analysis
@@ -77,4 +77,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->
