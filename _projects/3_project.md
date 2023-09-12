@@ -1,10 +1,10 @@
-<!-- ---
+---
 layout: page
-title: Genetic Algorithms Physics Engine
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 1
+title: Robot Walking via RL
+# description:
+img: assets/img/rl_walking.png
+redirect: https://github.com/simonhwk/research-projects/blob/main/Robot%20Walking%20via%20Deep%20Deterministic.pdf
+importance: 2
 category: projects
 ---
 
@@ -78,4 +78,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %} -->
+{% endraw %}
