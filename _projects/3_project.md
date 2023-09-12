@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Robot Walking via RL
+title: Robot Walking
 # description:
 img: assets/img/rl_walking.png
 redirect: https://github.com/simonhwk/research-projects/blob/main/Robot%20Walking%20via%20Deep%20Deterministic.pdf
