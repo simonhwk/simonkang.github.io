@@ -27,7 +27,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a second-year MS student in Mechanical Engineering with a concentration in Robotics at [Columbia University](https://www.columbia.edu/). As a member of the [Creative Machines Lab](https://www.creativemachineslab.com/), I work under the guidance of Professor Hod Lipson and Philippe Wyder in the Robot Metabolism Group. Before joining Columbia, I gained valuable industry experience at [Hyundai Motor Group](https://www.hyundaimotorgroup.com/main/mainRecommend), where I was a collaboration lead for ML based data analytics project for the brands Hyundai, Kia, and Genesis. 
+I am a second-year MS student in Mechanical Engineering with a concentration in Robotics at [Columbia University](https://www.columbia.edu/). As a member of the [Creative Machines Lab](https://www.creativemachineslab.com/), I work under the guidance of Professor Hod Lipson and Philippe Wyder in the Robot Metabolism Group. Before joining Columbia, I gained valuable industry experience at [Hyundai Motor Group](https://www.hyundaimotorgroup.com/main/mainRecommend), where I was a safety analysis engineer and collaboration lead for ML based data analytics project for the brands Hyundai, Kia, and Genesis. 
 
 **My work is dedicated to understanding the learning mechanisms of robots and developing innovative robotic solutions that serve society and assist individuals.**
 
