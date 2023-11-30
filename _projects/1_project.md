@@ -2,7 +2,7 @@
 layout: page
 title: Robot Metabolism
 description: 
-img: assets/img/4Tet_NB.png
+img: assets/img/tetrahedron.png
 redirect: https://github.com/simonhwk/RM_Retinas
 importance: 1
 category: research
