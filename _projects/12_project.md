@@ -2,7 +2,7 @@
 layout: page
 title: topology optimization
 description: 
-img: assets/img/topology_optimization.jpg
+img: assets/img/topology_optimization.png
 redirect: https://github.com/simonhwk/DM-topology-optimization/blob/main/Topology%20Optimization.pdf
 importance: 5
 category: projects
