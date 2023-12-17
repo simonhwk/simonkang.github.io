@@ -2,7 +2,7 @@
 layout: page
 title: retinas
 description: 
-img: assets/img/tetrahedron.png
+img: assets/img/retinas_v1.png
 redirect: https://github.com/simonhwk/RM_Retinas
 importance: 1
 category: research

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: food printing
+title: learning
 description: 
-img: assets/img/food_printing.jpg
-redirect: https://github.com/simonhwk/DM-food-printing
-importance: 4
-category: projects
+img: assets/img/tetrahedron.png
+redirect: https://github.com/simonhwk/RM_Learning
+importance: 3
+category: research
 ---
 
 Every project has a beautiful feature showcase page.

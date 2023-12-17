@@ -4,7 +4,7 @@ title: f1tenth
 description: 
 img: assets/img/f1_tenth.jpg
 redirect: https://github.com/columbia-university-robotics/self-driving-car
-importance: 4
+importance: 5
 category: projects
 ---
 
