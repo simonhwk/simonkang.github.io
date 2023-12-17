@@ -1,10 +1,10 @@
 ---
 layout: page
-title: RM_Retinas
+title: RM_Controller
 description: 
-img: assets/img/tetrahedron.png
-redirect: https://github.com/simonhwk/RM_Retinas
-importance: 1
+img: assets/img/3D_control.png
+redirect: https://github.com/simonhwk/RM_Control
+importance: 2
 category: research
 ---
 
