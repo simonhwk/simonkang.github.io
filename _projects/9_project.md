@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RM_Controller
+title: control
 description: 
 img: assets/img/3D_control.png
 redirect: https://github.com/simonhwk/RM_Control

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RM_Retinas
+title: retinas
 description: 
 img: assets/img/tetrahedron.png
 redirect: https://github.com/simonhwk/RM_Retinas
