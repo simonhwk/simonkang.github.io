@@ -29,7 +29,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am a second-year MS student in Mechanical Engineering with a concentration in Robotics at [Columbia University](https://www.columbia.edu/). As a member of the [Creative Machines Lab](https://www.creativemachineslab.com/), I work under the guidance of [Professor Hod Lipson](https://www.hodlipson.com/) and [Philippe Wyder](https://www.philippewyder.com/) in the Robot Metabolism Group. Before joining Columbia, I gained valuable industry experience at [Hyundai Motor Group](https://www.hyundaimotorgroup.com/main/mainRecommend), where I was a safety analysis engineer and collaboration lead for ML based data analytics project for the brands Hyundai, Kia, and Genesis. 
 
-**My work is dedicated to understanding the control, planning, and learning mechanisms of multi-agent systems, with the aim of developing robotic software and hardware solutions that serve society and assist individuals.**
+**My work is dedicated to understanding the control, planning, and learning mechanisms of multi-agent systems, with the aim of developing robotic algorithms and mechatronics solutions that serve society and assist individuals.**
 
 **Research Areas: Modular & Bio-inspired Robotics · Multi-Agent Control and Planning · SLAM · Robot Learning**
 
