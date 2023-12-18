@@ -1,6 +1,6 @@
 ---
 layout: page
-title: learning
+title: learning (private)
 description: 
 img: assets/img/tetrahedron.png
 redirect: https://github.com/simonhwk/RM_Learning
