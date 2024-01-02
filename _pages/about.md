@@ -31,7 +31,7 @@ I am a second-year MS student in Mechanical Engineering with a concentration in 
 
 **My work is dedicated to understanding the control, planning, and learning mechanisms of multi-agent systems, with the aim of developing robotic algorithms and mechatronics solutions that serve society and assist individuals.**
 
-**Research Areas: Modular & Bio-inspired Robotics · Multi-Agent Control and Planning · SLAM · Robot Learning.**
+**Research Areas: Modular & Bio-inspired Robotics · Multi-Agent Control and Planning · SLAM · Robot Learning**
 
 <!-- received a Bachelor's degree from [Chung-Ang University](https://www.cau.ac.kr/) and -->
 
