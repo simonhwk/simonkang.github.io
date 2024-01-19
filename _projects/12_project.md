@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 3d modeling
+title: CAD
 description: 
 img: assets/img/humanoid_leg.png
-redirect: https://github.com/simonhwk/DM-topology-optimization/blob/main/Topology%20Optimization.pdf
+redirect: https://github.com/simonhwk/CAD
 importance: 5
 category: projects
 ---
