@@ -1,8 +1,8 @@
 ---
 layout: page
-title: topology optimization
+title: 3d modeling
 description: 
-img: assets/img/topology_optimization.png
+img: assets/img/humanoid_leg.png
 redirect: https://github.com/simonhwk/DM-topology-optimization/blob/main/Topology%20Optimization.pdf
 importance: 5
 category: projects
